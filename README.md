@@ -1,2 +1,2 @@
-# canvasseting
+# canvas-game
 Created with CodeSandbox
